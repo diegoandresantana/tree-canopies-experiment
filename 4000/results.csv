@@ -1,0 +1,3 @@
+ResNet50;0;KMEANS;0;0;8;100;Breadth;SemDuplicatas;SIFT;0;0.872;0.89;0.872;0.869;./database/4000//ResNet50_k0_clusterKMEANS_xy0_minseq0_stBreadth_dupliSemDuplicatas_SIFT_contrast0_batch8_fineTuning100.txt
+ResNet50;0;KMEANS;0;0;16;100;Breadth;SemDuplicatas;SIFT;0;0.932;0.934;0.932;0.932;./database/4000//ResNet50_k0_clusterKMEANS_xy0_minseq0_stBreadth_dupliSemDuplicatas_SIFT_contrast0_batch16_fineTuning100.txt
+ResNet50;0;KMEANS;0;0;32;100;Breadth;SemDuplicatas;SIFT;0;0.916;0.92;0.916;0.916;./database/4000//ResNet50_k0_clusterKMEANS_xy0_minseq0_stBreadth_dupliSemDuplicatas_SIFT_contrast0_batch32_fineTuning100.txt
